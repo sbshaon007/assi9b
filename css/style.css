@@ -1,0 +1,1283 @@
+/* 
+Author name 	: SB Shaon;
+Mail Address 	: sbdb12345@gmail.com;
+Site url 		:
+GPL license		: 3.4.1;
+*/
+
+/* 
+
+==== Index ====
+	
+     1. Header
+	 2. Home
+	 3. About Us
+	 4. Our Approch
+	 5. Our Work
+	 6. Free Consultation
+	 7. Footer
+*/
+
+
+/* global css */
+
+body {
+	font-family: 'Lora', serif;
+}
+
+
+
+.cstm-btn-one {
+	    
+	background: #f8cd53;
+	border: none;
+	color:#fff;
+	padding: 10px 31px;
+	border-radius: 5px;
+	margin-top: 25px;
+
+
+}
+
+.no-padding {
+
+	padding: 0px;
+	margin: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* theme css */
+
+/* Header section */
+
+.head {
+	background-color: #f0f2f4;
+	padding: 8px 0px;
+	
+
+}
+
+.header-left {
+	text-align: right;
+
+}
+
+.header-left span {
+
+font-size: 17px;
+
+}
+
+
+
+
+.fa.fa-mobile {
+	
+font-size: 24px;
+margin-right: 9px;
+
+}
+
+.header-right {
+
+}
+
+.fa.fa-envelope {
+
+font-size: 19px;
+margin-right: 10px;
+padding-left: 29px;
+
+}
+
+.header-right span{
+
+}
+
+.fa.fa-facebook {
+	border: 1px solid #1287bf;
+	color: #fff;
+	background: #1287bf;
+	padding: 4px 9px;
+	border-radius: 4px;
+	margin-left: 3px;
+
+}
+
+
+
+
+/* Navigation */
+
+.navigation {
+	padding: 35px 0px;
+}
+
+.nav-head {
+
+}
+
+.navbar-nav {
+
+}
+
+.navbar-nav span {
+	
+	padding-top: 7px;
+	margin: 0px 11px;
+}
+
+.nav-item {
+	
+	font-size: 17px;
+
+}
+
+.nav-link {
+	
+	color: #424242!important;
+}
+
+.nav-link:hover {
+	
+	box-shadow: 0px 0px 0px #de2b24!important; 
+
+}
+
+.free {
+
+	background:#de2b24;
+	color: #fff !important;
+	border-radius: 7px;
+	margin-left: 12px;
+}
+
+/* hero */
+
+.hero {
+	background: url(../img/banner.png)no-repeat center top;
+	background-size: cover;
+	padding-top: 170px 0px;
+
+}
+
+.hero-content {
+	text-align: center;
+	
+
+}
+
+.hero-content h1{
+	font-size: 48px;
+	color: #fff;
+	
+}
+
+.hero-content h3{
+	font-size: 30px;
+	color: #fff;
+	
+}
+
+/* service */
+
+.service {
+	padding-top: 95px;
+
+}
+
+.service-content {
+	text-align: center;
+
+}
+
+.service-content h1{
+	
+	color: #424242;
+	font-size: 36px;
+
+}
+
+.service-content h3{
+	
+	color: #424242;
+	font-size: 20px;
+	
+}
+
+.service-content span{
+
+	border-bottom: 5px solid #424242;
+	display: block;
+	margin: 0 auto;
+	width: 4%;
+	
+}
+
+.service-bottom {
+	padding-top: 50px;
+}
+
+.facebook {
+	text-align: center;
+
+}
+
+.facebook h2{
+	
+	font-size: 22px;
+	margin-top: 15px;
+	
+}
+
+.facebook p{
+	font-size: 14px;
+	
+}
+
+.landing {
+	text-align: center;
+
+}
+
+.landing h2{
+	
+	font-size: 22px;
+	margin-top: 15px;
+
+}
+
+.landing p{
+	font-size: 14px;
+
+}
+
+.ads {
+	text-align: center;
+
+}
+
+.ads h2{
+
+	font-size: 22px;
+	margin-top: 15px;
+	
+}
+
+.ads p{
+	
+	font-size: 14px;
+}
+
+/* approch */
+
+.approch {
+	
+	background-color: #f3f3f3;	
+	padding: 60px 0px;
+
+}
+
+.approch-title {
+
+}
+
+.approch-title h2{
+	
+	font-size: 36px;
+
+}
+
+.approch-title h3{
+	
+	font-size: 20px;
+	margin-top: 20px;
+
+}
+
+.approch-title span {
+	
+	display: block;
+	margin: 0 auto;
+	border-bottom: 5px solid #424242;
+	width: 4%;
+	padding-top: 16px;
+}
+
+/* approch one */
+
+.appro-bg-one {
+
+	background: #fff;
+	margin-top: 35px;
+
+}
+
+.approch-one {
+
+	position: relative;
+	width: 100%;
+	padding: 0px;
+
+}
+
+.img-one {
+	width: 100%;
+}
+
+.first-step {
+
+	position: absolute;
+	background: #de2b24;
+	width: 32%;
+	text-align: center;
+	border: 2px solid #fff;
+	border-radius: 5px;
+	right: -58px;
+	bottom: 28%;
+	color: #fff;
+
+}
+
+.first-step h2{
+	
+	font-size: 50px;
+	
+}
+
+.first-step p{
+	
+	font-size: 20px;
+}
+
+
+.approch-one-content {
+
+	padding: 80px;
+
+}
+
+.approch-one-content h2{
+	font-size: 18px;
+	
+}
+
+.approch-one-content p{
+	font-size: 14px;
+	
+}
+
+/* approch two */
+
+.appro-bg-two {
+
+	background: #fff;
+	margin-top: 35px;
+	
+}
+
+.approch-two-content {
+
+	padding: 64px;
+
+}
+
+.approch-two-content h2{
+
+	font-size: 18px;
+	
+}
+
+.approch-two-content p{
+
+	font-size: 14px;
+	
+}
+
+.img-two {
+
+	width: 100%;
+
+}
+
+.approch-two {
+
+	position: relative;
+	width: 100%;
+
+}
+
+.second-step {
+
+	position: absolute;
+	background:#de2b24;
+	width: 32%;
+	text-align: center;
+	border: 2px solid #fff;
+	border-radius: 5px;
+	left: -43px;
+	bottom: 22%;
+	color: #fff;
+
+}
+
+.second-step h2{
+
+	font-size: 56px;
+	
+}
+
+.second-step p{
+
+	font-size: 19px;
+	
+}
+
+/* approch three */
+
+.appro-bg-three {
+
+	background: #fff;
+	padding: 0px;
+	margin-top: 25px;
+
+
+}
+
+.approch-three {
+
+	position: relative;
+	width: 100%;
+	
+
+
+}
+
+.img-three {
+
+	width: 100%;
+
+}
+
+.third-step {
+
+	position: absolute;
+	background: #de2b24;
+	width: 32%;
+	text-align: center;
+	border: 2px solid #fff;
+	border-radius: 5px;
+	right: -45px;
+	bottom: 26%;
+	color: #fff;
+
+}
+
+.third-step h2{
+
+	font-size: 50px;
+	
+}
+
+.third-step p{
+
+	font-size: 20px;
+	
+}
+
+.approch-three-content {
+
+	padding: 68px;
+
+}
+
+.approch-three-content h2{
+
+	font-size: 18px;
+	
+}
+
+.approch-three-content p{
+
+	font-size: 14px;
+	
+}
+
+/* approch four */
+
+.appro-bg-four {
+
+	background: #fff;
+	margin-top: 35px;
+
+}
+
+.approch-four-content {
+
+	padding: 65px;
+
+}
+
+.approch-four-content h2{
+	
+	font-size: 18px;
+}
+
+.approch-four-content p{
+
+	font-size: 14px;
+	
+}
+
+.approch-four {
+
+	position: relative;
+	width: 100%;
+
+}
+
+.img-four {
+
+	width: 100%;
+
+}
+
+.fourth-step {
+
+	position: absolute;
+	background:#de2b24;
+	width: 32%;
+	text-align: center;
+	border: 2px solid #fff;
+	border-radius: 5px;
+	left: -52px;
+	bottom: 25%;
+	color: #fff;
+
+}
+
+.fourth-step h2{
+
+	font-size: 55px;
+
+}
+
+.fourth-step p{
+
+	font-size: 19px;
+
+}
+
+/* our work */
+
+
+/*work title */
+
+.work {
+
+	background: #de2b24;
+	padding: 60px 0px;
+
+}
+
+.work-title {
+
+	color: #fff;
+
+}
+
+.work-title h1{
+	font-size: 36px;
+	
+}
+
+.work-title p{
+	font-size: 20px;
+	
+}
+
+.work-title span{
+
+	display: block;
+	border-bottom: 4px solid #fff;
+	width: 5%;
+	margin: 0 auto;
+	
+}
+
+/* project one */
+
+.work-row-one {
+
+	margin-top: 45px;
+
+}
+
+.project-one {
+
+	background: #f35e59;
+	text-align: center;
+	color: white;
+
+}
+
+.fa.fa-paper-plane-o {
+
+	font-size: 36px;
+	padding-top: 52px;
+	
+
+}
+
+.project-one h2{
+	font-size: 26px;
+	padding-top: 30px;
+
+	
+
+}
+
+.project-one h3{
+	font-size: 16px;
+
+	
+
+}
+
+.project-one-img {
+
+	
+
+}
+
+
+/* project two */
+
+
+.project-two {
+
+	background: #f35e59;
+	text-align: center;
+	color: white;
+
+}
+
+.project-two h2{
+
+	font-size: 26px;
+	padding-top: 30px;
+
+
+}
+
+.project-two h3{
+
+	font-size: 16px;
+
+}
+
+.project-two-img {
+	
+}
+
+
+/* project three */
+
+.project-three {
+
+	background: #f35e59;
+	text-align: center;
+	color: white;
+
+}
+
+.project-three h2{
+
+	font-size: 26px;
+	padding-top: 30px;
+	
+}
+
+.project-three h3{
+	
+	font-size: 16px;
+}
+
+
+.project-three-img {
+
+}
+
+/* project four */
+
+.project-four-img {
+
+}
+
+.project-four {
+
+	background: #f35e59;
+	text-align: center;
+	color: white;
+
+}
+
+.project-four h2{
+
+	font-size: 26px;
+	padding-top: 30px;
+	
+}
+
+.project-four h3{
+
+	font-size: 16px;
+	
+}
+
+
+
+
+
+
+/* Analysis */
+
+
+/*analysis top */
+
+.analysis {
+
+	background: #1287bf;
+	padding: 25px 0px;
+}
+
+.analysis-title {
+
+	color: #fff;
+
+}
+
+.analysis-title h2{
+
+}
+
+.analysis-title p{
+
+}
+
+
+/* analysis bottom */
+
+
+.icon {
+	text-align: center;
+
+}
+
+.fa.fa-chevron-circle-down {
+
+	font-size: 66px;
+	color: #fff;
+	cursor: pointer;
+}
+
+.triangle {
+
+}
+
+
+.triangle-up {
+      
+    position: absolute;
+	width: 0px;
+	height: 0px;
+	border-left: 100px solid transparent;
+	border-right: 100px solid transparent;
+	border-bottom: 100px solid #fff;
+	right: 32%;
+  }
+	
+
+
+.contact-form {
+
+	margin-top: 40px;
+	background: #fff;
+	padding: 80px 35px;
+	border-radius: 5px;
+	position: relative;
+}
+
+.form-control {
+	padding: 27px 16px!important;
+}
+
+.form-top {
+	color: #161616;
+	text-align: center;
+}
+
+.form-top p {
+	padding: 30px 0px;
+}
+
+.cstm-btn-two {
+
+	margin: 47px auto;
+	display: block;
+	background:#de2b24;
+	font-size: 17px;
+	padding: 10px 32px;
+	border: none;
+
+}
+
+
+/* touch section */
+
+.touch {
+
+	background: #2a2a2a;
+
+}
+
+.touch-title {
+	text-align: center;
+	color: #fff;
+
+}
+
+.touch-title h5{
+
+	font-size: 15px;
+
+}
+
+.touch-icon {
+
+	margin: 35px 0px;
+
+}
+
+.fa.fa-facebook.header-right {
+	
+	border: 1px solid #fff;
+	color: #fff;
+	background: transparent;
+	border-radius: 4px;
+	margin-left: 3px;
+	width: 42px;
+	line-height: 30px;
+	font-size: 25px;
+
+}
+
+
+
+.fa.fa-twitter {
+
+	border: 1px solid #fff;
+	color: #fff;
+	background: transparent;
+	border-radius: 4px;
+	margin-left: 3px;
+	width: 42px;
+	line-height: 38px;
+	font-size: 25px;
+
+}
+
+.fa.fa-google-plus {
+
+	border: 1px solid #fff;
+	color: #fff;
+	background: transparent;
+	border-radius: 4px;
+	margin-left: 3px;
+	width: 44px;
+	line-height: 38px;
+	font-size: 25px;
+
+}
+
+.fa.fa-linkedin {
+
+	border: 1px solid #fff;
+	color: #fff;
+	background: transparent;
+	border-radius: 4px;
+	margin-left: 3px;
+	width: 42px;
+	line-height: 38px;
+	font-size: 25px;
+
+}
+
+.touch-title h5 {
+
+}
+
+.email-control {
+
+	width: 60%;
+	padding: 13px;
+	background: #515150;
+	color: #fff;
+	border: none;
+	margin-top: 30px;
+	border-radius: 3px;
+
+}
+
+.cstm-btn-three {
+
+	display: block;
+	margin: 55px auto;
+	background: transparent !important;
+	border: 2px solid #424242 !important;
+	padding: 10px 32px;
+
+}
+
+/* footer bottom */
+
+.foot-bot {
+
+	background: #515151;
+
+}
+
+.foot-bot p{
+
+	text-align: center;
+	color: #fff;
+	padding-top: 10px;
+	
+}
+
+
+
+/* Media Query */
+
+/* mobile device */
+ 
+ @media (min-width: 320px) and (max-width: 500px) {
+
+ 	/* Header */
+
+ 	.header-left {
+    
+    text-align: right;
+    
+	}
+
+	.header-right {
+		text-align: left;
+	}
+
+	
+
+	/* Navigation */
+
+	
+	.fa.fa-bars {
+    border: 1px solid #161616;
+    padding: 5px 10px;
+    border-radius: 4px;
+	
+	}
+
+
+
+	/* hero */
+
+	.hero-content {
+    text-align: center;
+    font-size: 13px;
+	
+	}
+
+
+
+	.hero-content h1 {
+    
+    font-size: 24px;
+    color: #fff;
+	
+	}
+
+	.hero-content h3 {
+    
+    font-size: 15px;
+    color: #fff;
+	
+	}
+
+
+	/* service */
+
+	.service-content h3 {
+    color: #424242;
+    font-size: 17px;
+	
+	}
+
+	.landing {
+    
+    text-align: center;
+    margin: 54px 0px;
+	
+	}
+
+
+ 	
+ 	
+
+ 	/* approch */
+
+ 	
+ 	.approch {
+    
+    background-color: #f3f3f3;
+    padding: 10px 0px;
+	
+	}
+
+
+ 	.approch-one {
+    
+    position: relative;
+    width: 100%;
+    margin-top: 20px;
+    
+	
+	}
+
+
+ 	.first-step {
+
+    position: absolute;
+    background: #de2b24;
+	width: 26%;
+	text-align: center;
+	border: 2px solid #fff;
+	border-radius: 5px;
+	top: 0;
+	color: #fff;
+	left: 0;
+	height: 107px;
+
+}
+
+.approch-two {
+
+    position: relative;
+    width: 100%;
+}
+
+	.second-step {
+    position: absolute;
+    background: #de2b24;
+	width: 28%;
+	text-align: center;
+	border: 2px solid #fff;
+	border-radius: 5px;
+	left: 15px;
+	top: 0;
+	color: #fff;
+	height: 113px;
+}
+
+.approch-three {
+    position: relative;
+    width: 100%;
+    margin-top: 28px;
+}
+
+.third-step {
+    position: absolute;
+    background: #de2b24;
+	width: 28%;
+	text-align: center;
+	border: 2px solid #fff;
+	border-radius: 5px;
+	left: 14px;
+	top: -1px;
+	color: #fff;
+    height: 109px;
+}
+
+.approch-four {
+    position: relative;
+    width: 100%;
+    margin-bottom: 24px;
+}
+
+
+
+.fourth-step {
+    position: absolute;
+    background: #de2b24;
+	width: 28%;
+	text-align: center;
+	border: 2px solid #fff;
+	border-radius: 5px;
+	left: 14px;
+	top: -1px;
+	color: #fff;
+	height: 50%;
+}
+
+
+/* work */
+
+.project-one-img {
+    width: 100%;
+    margin-top: 19px;
+}
+
+.project-two {
+    
+    background: #f35e59;
+	text-align: center;
+	color: white;
+    margin-top: 20px;
+}
+
+.project-two-img {
+    
+    width: 100%;
+    margin-top: 20px;
+}
+
+.project-three-img {
+
+    margin-top: 20px;
+
+}
+
+.project-three {
+    background: #f35e59;
+	text-align: center;
+	color: white;
+    margin-top: 20px;
+}
+
+.project-four-img {
+
+    margin-top: 20px;
+
+}
+
+.project-four {
+    background: #f35e59;
+	text-align: center;
+	color: white;
+    margin-top: 20px;
+}
+
+/* Analysis */
+
+
+
+/* triangel */
+
+.contact-form {
+    margin-top: 40px;
+    background: #fff;
+    padding: 80px 35px;
+    border-radius: 5px;
+    position: relative;
+}
+
+
+
+
+.triangle-up {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    border-left: 100px solid transparent;
+	border-right: 100px solid transparent;
+	border-bottom: 100px solid #fff;
+    right: 22%;
+    top: 78px;
+}
+
+
+/* touch */
+
+.email-control {
+    
+    width: 93%;
+    padding: 13px;
+    background: #515150;
+	color:#fff;
+    border: none;
+    margin-top: 73px;
+    border-radius: 3px;
+    text-align: center;
+}
+
+.touch-icon {
+    margin-top: 83px;
+}
+
+.touch-title h5 {
+    margin-top: 77px;
+}
+
+
+
+
+
+
+/* footer */
+
+.foot-bot p {
+    text-align: center;
+    color: #fff;
+    padding-top: 10px;
+    font-size: 12px;
+}
+
+
+
+
+
+ }
+
+ /* small device */
+
+@media (min-width: 501px) and (max-width: 768px) {
+
+}
+
+/* medium device */
+
+@media (min-width: 769px) and (max-width: 1200px) {
+
+}
+
+/* large device */
+
+@media (min-width: 1200px) {
+
+}
